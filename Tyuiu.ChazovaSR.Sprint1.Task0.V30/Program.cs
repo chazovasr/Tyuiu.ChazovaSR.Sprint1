@@ -25,12 +25,12 @@ namespace Tyuiu.ChazovaSR.Sprint1.Task0.V30
             Console.WriteLine("* УСЛОВИЕ:                                           ");
             Console.WriteLine("*****************************************************");
             Console.WriteLine("*Написать программу на С#, вычисляет выражение       ");
-            Console.WriteLine("* 20*5-4 и печатает результат на экране.            *");
+            Console.WriteLine("* 18/6*2 - (4-3) и печатает результат на экране.    *");
             Console.WriteLine("*                                                   *");
             Console.WriteLine("*****************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                  *");
             Console.WriteLine("*****************************************************");
-            Console.WriteLine("* 20 * 5 - 4                                       ");
+            Console.WriteLine("* 18 / 6 * 2 - (4-3)                                 ");
             Console.WriteLine("*****************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                         ");
             Console.WriteLine("*****************************************************");

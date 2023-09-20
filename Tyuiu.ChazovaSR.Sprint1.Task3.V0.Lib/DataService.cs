@@ -3,16 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 using tyuiu.cources.programming.interfaces.Sprint1;
 
-namespace Tyuiu.ChazovaSR.Sprint1.Task0.V30.Lib
+namespace Tyuiu.ChazovaSR.Sprint1.Task3.V0.Lib
 {
-    public class DataService : ISprint1Task0V30
+    public class DataService : ISprint1Task3V0
     {
-        public double Calculate()
+        public double Calculate(double a, double b)
         {
-            return 18 / 6 * 2 - (4 - 3);
+            return a * b; 
         }
     }
 }
